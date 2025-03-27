@@ -10,7 +10,7 @@ A basic calculator that performs addition, subtraction, multiplication, and divi
 
 # Installation
 Clone the repository:
-git clone https://github.com/TalentlessHuman/SimpleCalculator.git
+git clone [https://github.com/TalentlessHuman/SimpleCalculator.git](https://github.com/TalentlessHuman/SimpleCalculator.git)
 
 Run the program using Live server or whatever you use
 Open index.html in your browser.
