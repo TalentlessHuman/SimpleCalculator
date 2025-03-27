@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../TheOdinProject-JavaScript-EtchASketch-2"
+		},
+		{
+			"path": "../TheOdinProject-JavaScript-RockPaperScissorsGUI-2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TheOdinProject-JavaScript-GUICalculator-2"
+	}
+}
